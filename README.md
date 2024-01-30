@@ -1,4 +1,4 @@
-# Capstone Project - [Project Title]
+# Capstone Project
 
 ## Overview
 
